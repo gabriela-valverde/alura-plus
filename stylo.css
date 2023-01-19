@@ -21,7 +21,7 @@ body {
 }
 
 .principal{
-  background-image: url("img/background.jpg");
+  background-image: url("img/background.png");
   background-repeat: no-repeat; 
   background-size: contain;
   text-align: center; /*fizemos o alinahmento de todo o texto do container,
